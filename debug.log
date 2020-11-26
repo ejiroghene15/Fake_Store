@@ -1,0 +1,6 @@
+[1124/132538.599:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1125/153817.850:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1125/181517.970:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1125/203548.162:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1126/003336.815:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1126/010247.907:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Ejiro\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\233c1656-0b61-4e88-8126-35869d450f3b: The system cannot find the path specified. (0x3)
