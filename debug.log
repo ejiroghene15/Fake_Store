@@ -7,3 +7,4 @@
 [1126/105638.326:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
 [1126/113547.983:ERROR:process_info.cc(359)] UncheckedAllocate
 [1126/113548.067:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Ejiro\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\74aded6b-91fe-4595-8ec7-b1ed9feaecf4: The system cannot find the path specified. (0x3)
+[1126/164316.886:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
